@@ -1,0 +1,47 @@
+Mese,ID_Cantiere,Città,Lat,Long,Tipo_Cantiere,Avanzamento_percentuale,Entrate,Uscite,Stato,Incidenti_sul_Lavoro
+Gennaio,C001,Catanzaro,38.895617,16.589966,Ristrutturazione Villa,30,15000,10000,In Corso,0
+Gennaio,C002,Milano,45.4669,9.19,Costruzione Garage,50,20000,12000,In Corso,1
+Gennaio,C003,Roma,41.902782,12.496366,Riparazione Tetto,80,8000,6000,Completato,0
+Febbraio,C001,Catanzaro,38.895617,16.589966,Ristrutturazione Villa,65,20000,15000,In Corso,0
+Febbraio,C002,Milano,45.4669,9.19,Costruzione Garage,85,10000,8000,Completato,1
+Febbraio,C004,Catanzaro,38.895617,16.589966,Ampliamento Appartamento,20,5000,3000,In Corso,1
+Marzo,C001,Catanzaro,38.895617,16.589966,Ristrutturazione Villa,80,12000,9000,Completato,0
+Marzo,C004,Catanzaro,38.895617,16.589966,Ampliamento Appartamento,45,10000,7000,In Corso,0
+Marzo,C005,Catanzaro,38.895617,16.589966,Costruzione Piscina,15,3000,2000,In Corso,0
+Aprile,C004,Catanzaro,38.895617,16.589966,Ampliamento Appartamento,70,8000,6000,In Corso,0
+Aprile,C005,Catanzaro,38.895617,16.589966,Costruzione Piscina,35,5000,4000,In Corso,0
+Aprile,C006,Milano,45.4669,9.19,Ristrutturazione Bagno,10,2000,1500,In Corso,0
+Maggio,C001,Catanzaro,38.895617,16.589966,Ristrutturazione Villa,100,15000,12000,Completato,0
+Maggio,C004,Catanzaro,38.895617,16.589966,Ampliamento Appartamento,85,12000,9000,In Corso,5
+Maggio,C005,Catanzaro,38.895617,16.589966,Costruzione Piscina,50,7000,5000,In Corso,0
+Maggio,C006,Milano,45.4669,9.19,Ristrutturazione Bagno,30,3000,2500,In Corso,0
+Giugno,C004,Catanzaro,38.895617,16.589966,Ampliamento Appartamento,95,15000,11000,In Corso,0
+Giugno,C005,Catanzaro,38.895617,16.589966,Costruzione Piscina,75,10000,7000,In Corso,1
+Giugno,C006,Milano,45.4669,9.19,Ristrutturazione Bagno,50,4000,3500,In Corso,1
+Giugno,C007,Milano,45.4669,9.19,Nuova Costruzione,10,2000,1500,In Corso,0
+Luglio,C004,Catanzaro,38.895617,16.589966,Ampliamento Appartamento,100,18000,13000,Completato,0
+Luglio,C005,Catanzaro,38.895617,16.589966,Costruzione Piscina,85,12000,9000,In Corso,1
+Luglio,C006,Milano,45.4669,9.19,Ristrutturazione Bagno,70,5000,4500,In Corso,0
+Luglio,C007,Milano,45.4669,9.19,Nuova Costruzione,30,4000,3000,In Corso,0
+Agosto,C005,Catanzaro,38.895617,16.589966,Costruzione Piscina,95,15000,11000,Completato,1
+Agosto,C006,Milano,45.4669,9.19,Ristrutturazione Bagno,80,6000,5000,In Corso,0
+Agosto,C007,Milano,45.4669,9.19,Nuova Costruzione,50,6000,4500,In Corso,0
+Agosto,C008,Bologna,44.4939,11.3428,Ristrutturazione Facciata,10,2000,1500,In Corso,0
+Settembre,C006,Milano,45.4669,9.19,Ristrutturazione Bagno,90,7000,5500,Completato,0
+Settembre,C007,Milano,45.4669,9.19,Nuova Costruzione,70,8000,6000,In Corso,0
+Settembre,C008,Bologna,44.4939,11.3428,Ristrutturazione Facciata,30,4000,3000,In Corso,0
+Settembre,C009,Napoli,40.8333,14.25,Ampliamento Mansarda,10,2500,2000,In Corso,0
+Ottobre,C007,Milano,45.4669,9.19,Nuova Costruzione,85,10000,7500,In Corso,0
+Ottobre,C008,Bologna,44.4939,11.3428,Ristrutturazione Facciata,50,5000,4000,In Corso,0
+Ottobre,C009,Napoli,40.8333,14.25,Ampliamento Mansarda,30,3500,2500,In Corso,0
+Ottobre,C010,Roma,41.902782,12.496366,Riparazione Tetto,10,1500,1000,In Corso,0
+Novembre,C007,Milano,45.4669,9.19,Nuova Costruzione,95,12000,9000,Completato,0
+Novembre,C008,Bologna,44.4939,11.3428,Ristrutturazione Facciata,75,6000,5000,In Corso,0
+Novembre,C009,Napoli,40.8333,14.25,Ampliamento Mansarda,50,4000,3500,In Corso,0
+Novembre,C010,Roma,41.902782,12.496366,Riparazione Tetto,30,2000,1500,In Corso,0
+Novembre,C011,Catanzaro,38.895617,16.589966,Ristrutturazione Interna,10,1500,1000,In Corso,0
+Dicembre,C008,Bologna,44.4939,11.3428,Ristrutturazione Facciata,90,7000,6000,Completato,0
+Dicembre,C009,Napoli,40.8333,14.25,Ampliamento Mansarda,70,5000,4000,In Corso,0
+Dicembre,C010,Roma,41.902782,12.496366,Riparazione Tetto,50,3000,2500,In Corso,0
+Dicembre,C011,Catanzaro,38.895617,16.589966,Ristrutturazione Interna,30,2000,1500,In Corso,0
+Dicembre,C012,Catanzaro,38.895617,16.589966,Costruzione Garage,10,1500,1000,In Corso,0
